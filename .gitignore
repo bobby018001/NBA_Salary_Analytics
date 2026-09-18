@@ -1,0 +1,11 @@
+.ipynb_checkpoints/
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+.DS_Store
+__MACOSX/
+Thumbs.db
+tmp_report_images/
+output/NBA_Draft_Salary_Report.docx
